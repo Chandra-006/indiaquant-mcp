@@ -1,3 +1,7 @@
 venv/
 __pycache__/
+*.pyc
 *.py[cod]
+data/portfolio.db
+.env
+*.log
