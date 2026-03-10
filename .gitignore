@@ -1,7 +1,9 @@
 venv/
 __pycache__/
 *.pyc
-*.py[cod]
-data/portfolio.db
+*.pyo
+data/
 .env
 *.log
+.vscode/
+*.zip
